@@ -87,9 +87,7 @@
 
 
 #####Logic
-1. Where is this infomation surfaced?
-2. Does somebody need to reveiw this infomation?
-3. If it is not used should we be storing it?
+
 
 ####Reqtoacc1
 ---
@@ -112,6 +110,7 @@
 
 ######Help Center
 1. We need to begin to create a knowledge base of help and FAQ
+
 #####Logic
 
 ####03-2-1b
@@ -121,6 +120,7 @@
 #####Content
 1. What notifications are sent to a user alerting them of a connection request, Email / on app / SMS etc
 2. As aove but for confirmation of connection requests.
+
 #####Logic
 
 ####03-2-1c
@@ -137,5 +137,51 @@
 
 #####Content
 1. As 03-2-1b
+
 #####Logic
 
+####03-2-1e
+---
+#####Design
+
+#####Content
+1. As 03-2-1b
+
+#####Logic
+
+####03-2-1f
+---
+#####Design
+
+#####Content
+1. Reqtoacc3.Content.MainImage.1
+
+#####Logic
+
+####03-2-2a-Pro5 Dropdown
+---
+#####Design
+
+#####Content
+
+
+#####Logic
+
+
+####03-2-2b-Edit Name
+---
+#####Design
+
+#####Content
+1. Should we allow people to edit names of companies and fund after we have authorised them to use the application??
+
+#####Logic
+
+####03-2-2c-Edit Investor Type
+---
+#####Design
+
+#####Content
+1. As 03-2-2b-Edit Name
+
+#####Logic
