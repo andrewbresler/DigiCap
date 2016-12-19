@@ -90,3 +90,52 @@
 1. Where is this infomation surfaced?
 2. Does somebody need to reveiw this infomation?
 3. If it is not used should we be storing it?
+
+####Reqtoacc1
+---
+#####Design
+
+#####Content
+
+
+#####Logic
+######Report User
+1. We need somebody to monitor the reporting of users / funds. Probably need a finite list of reasons
+
+####03-2-1a
+---
+#####Design
+
+#####Content
+######Language
+1. Are we supporitng multiple languages? if so this is a BIG undertaking.
+
+######Help Center
+1. We need to begin to create a knowledge base of help and FAQ
+#####Logic
+
+####03-2-1b
+---
+#####Design
+
+#####Content
+1. What notifications are sent to a user alerting them of a connection request, Email / on app / SMS etc
+2. As aove but for confirmation of connection requests.
+#####Logic
+
+####03-2-1c
+---
+#####Design
+
+#####Content
+
+#####Logic
+
+####03-2-1d
+---
+#####Design
+
+#####Content
+1. As 03-2-1b
+#####Logic
+
