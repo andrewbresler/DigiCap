@@ -31,6 +31,7 @@
 3. Can an alocator see other alocators funds.
 4. Feed.2
 
+
 ####Reqtoacc3
 ---
 #####Design
@@ -52,6 +53,7 @@
 #####Logic
 1. Can we have more than 1 user per fund updating this info? If so do we need a process of confirmation from other users in the fund?
 
+
 ####Reqtoacc4
 ---
 #####Design
@@ -66,6 +68,7 @@
 
 #####Logic
 1. Does the user get notified they have been blocked?
+
 
 ####Reqtoacc5
 ---
@@ -89,6 +92,7 @@
 #####Logic
 
 
+
 ####Reqtoacc1
 ---
 #####Design
@@ -99,6 +103,8 @@
 #####Logic
 ######Report User
 1. We need somebody to monitor the reporting of users / funds. Probably need a finite list of reasons
+
+
 
 ####03-2-1a
 ---
@@ -113,6 +119,8 @@
 
 #####Logic
 
+
+
 ####03-2-1b
 ---
 #####Design
@@ -122,6 +130,8 @@
 2. As aove but for confirmation of connection requests.
 
 #####Logic
+
+
 
 ####03-2-1c
 ---
@@ -140,6 +150,8 @@
 
 #####Logic
 
+
+
 ####03-2-1e
 ---
 #####Design
@@ -149,6 +161,8 @@
 
 #####Logic
 
+
+
 ####03-2-1f
 ---
 #####Design
@@ -157,6 +171,8 @@
 1. Reqtoacc3.Content.MainImage.1
 
 #####Logic
+
+
 
 ####03-2-2a-Pro5 Dropdown
 ---
@@ -168,6 +184,7 @@
 #####Logic
 
 
+
 ####03-2-2b-Edit Name
 ---
 #####Design
@@ -176,6 +193,8 @@
 1. Should we allow people to edit names of companies and fund after we have authorised them to use the application??
 
 #####Logic
+
+
 
 ####03-2-2c-Edit Investor Type
 ---
