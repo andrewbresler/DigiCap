@@ -43,6 +43,50 @@
 1. I cant imagine to many people adding htere own cover image as this would be a company relevant image. So for those that havent we need ot have an automated unique image. We could do some cool autgenerated pattern similar to google+
 2. Will we show this on mobile?
 3. We will probably need some manual intervention for removing in appropriate images.
-4. 
+
+######Company Profile
+1. Will this be a finite list of data items or will we be adding new data items via an admin panel.
+2. What is behind the view more?
+
 
 #####Logic
+1. Can we have more than 1 user per fund updating this info? If so do we need a process of confirmation from other users in the fund?
+
+####Reqtoacc4
+---
+#####Design
+
+#####Content
+######Block
+1. Can we interact with people we are not conncected to?
+2. If so do we just un follow instead of block?
+3. Will we need the functionality to update / change message text from the admin panel? 
+
+
+
+#####Logic
+1. Does the user get notified they have been blocked?
+
+####Reqtoacc5
+---
+#####Design
+
+#####Content
+
+
+#####Logic
+1. Where is this infomation surfaced?
+2. Does somebody need to reveiw this infomation?
+3. If it is not used should we be storing it?
+
+####Reqtoacc2
+---
+#####Design
+
+#####Content
+
+
+#####Logic
+1. Where is this infomation surfaced?
+2. Does somebody need to reveiw this infomation?
+3. If it is not used should we be storing it?
